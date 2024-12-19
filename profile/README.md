@@ -10,7 +10,7 @@ Welcome to **DevTalkSpace**
 
 3. **Learn GitHub Basics**: Watch to kick off your Open Source journey.  
 
-4. **Practice Open Source Workflow**: Add a resource to [`hacktoberfest-practice`](https://github.com/pasindu-kavinda/awesome-resources) repository and get comfortable with contributing.  
+4. **Practice Open Source Workflow**: Add a resource to [`awesome-resources`](https://github.com/pasindu-kavinda/awesome-resources) repository and get comfortable with contributing.  
 
 5. **Show Off Your Profile**: Gain more GREEN squares by contributing to our repositories and enhancing your GitHub presence.  
 
